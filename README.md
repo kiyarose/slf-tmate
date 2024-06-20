@@ -1,10 +1,5 @@
-tmate
-=====
 
-What is it?
------------
-
-Tmate is a fork of tmux. It provides an instant pairing solution.
+A fork of Tmate which in of itself is a fork of tmux. It provides an instant pairing solution.
 
 License
 -------
